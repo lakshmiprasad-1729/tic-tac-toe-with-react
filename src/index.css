@@ -1,0 +1,19 @@
+*{
+  padding: 0rem;
+  margin: 0rem;
+}
+.main-body{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 11rem;
+}
+
+.btn{
+  width: 7rem;
+  height: 7rem;
+  border: none;
+  border-radius: 1rem;
+  margin: 1.25rem;
+  background-color: pink;
+}
